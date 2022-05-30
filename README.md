@@ -1,2 +1,2 @@
-# linear_regression_python_from_scratch
-this repository contains codes for linear regression from scratch in python
+# Artificial Neural Network with numpy
+this repository contains codes for Artificial Neural Network from scratch in python
